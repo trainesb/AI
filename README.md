@@ -38,7 +38,7 @@ Choose what package you want to install:
  python -c "import tensorflow as tf;print(tf.reduce_sum(tf.random.normal([1000, 1000])))"
  ```
  
- ## [Datasets] (https://github.com/tensorflow/datasets) 
+ ## [Datasets](https://github.com/tensorflow/datasets) 
  Install tensorflow_datasets
  ```
  pip install --upgrade tensorflow_datasets
