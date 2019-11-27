@@ -7,5 +7,6 @@ virtualenv env
 ```
 Activate virtual enviornment
 ```python
-.\env\Scripts\activate
+./env/Scripts/activate
 ```
+View what packages you have installed with ```pip list```
