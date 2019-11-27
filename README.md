@@ -1,5 +1,9 @@
 # AI
-
+## Setup Virtual Enviornment
+Install _Virtualenv_
+```
+pip3 install -U pip virtualenv
+```
 Create a virtuale enviornment in your project directory
 ```Python
 cd my_project
@@ -9,4 +13,8 @@ Activate virtual enviornment
 ```python
 ./env/Scripts/activate
 ```
-View what packages you have installed with ```pip list```
+Upgrade pip
+```
+pip install --upgrade pip
+pip list # show packages installed within the virtual enviornment
+```
